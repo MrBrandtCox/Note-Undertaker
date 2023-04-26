@@ -49,7 +49,7 @@ THEN I am presented with empty fields to enter a new note title and the note's t
 ![](public/assets/READMEmockup1.png)
 
 ## **``Deployed Application``**
-
+- https://mrbrandtcox.github.io/Note-Undertaker/
 
 ## **``License``**
 - [MIT](https://choosealicense.com/licenses/mit/)
