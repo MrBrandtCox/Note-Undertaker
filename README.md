@@ -1,17 +1,18 @@
 # Note-Undertaker
 
-## ``Description``
+## **``Description``**
 The _Note-Undertaker_ is a note taking application to help the user stay more organized. The minimalist and clean design 
 of _Note-Undertaker_ helps it's user to keep a clear mind while organizing their thoughts and tasks onto "paper". 
 </br></br>
 
-## ``User Story``
+## **``User Story``**
 **AS A** small business owner,
 **I WANT** to be able to write and save notes
 **SO THAT** I can organize my thoughts and keep track of tasks I need to complete.
 </br></br>
 
-## ``Acceptance Criteria``
+## **``Acceptance Criteria``**
+
 * GIVEN a note-taking application,
 
 * WHEN I open the Note-Undertaker
@@ -43,9 +44,12 @@ THEN that note appears in the right-hand column.
 THEN I am presented with empty fields to enter a new note title and the note's text in the right-hand column.
 </br></br>
 
-## ``Mock-Up``
+## **``Mock-Up``**
+![](public/assets/READMEmockup2.png)
+![](public/assets/READMEmockup1.png)
+
+## **``Deployed Application``**
 
 
-## ``Deployed Application``
-
-## ``License``
+## **``License``**
+- [MIT](https://choosealicense.com/licenses/mit/)
